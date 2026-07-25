@@ -1,0 +1,6 @@
+{
+  "name": "Tyre Health Check Software",
+  "description": "Fast, simple Tyre Health Check Software with customer database, quick entry form, 35 PSI defaults, vehicle search, history, editing, print/PDF export, and backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
